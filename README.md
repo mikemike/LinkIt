@@ -7,3 +7,7 @@ An example of such a service could be an IRC bot that sits in a channel and post
 Another example could be a bot that sits in a Skype group chat, harvesting links and attributing them to the user who posted the link in the channel.  
 
 These links can be discussed, upvoted, down voted and commented on.
+
+# TODO
+
+The Threaded library currently prints out the comments, rather than returning them, which is terrible.  It was built as a prototype and should never have made it this far - it should be re-written.  My apologies :(
